@@ -3,10 +3,11 @@
 The student engagement detection system works by detecting student eye gaze and facial expression using OpenCV technology, FER-2013 dataset and CNN (convolutional neural network) method, receiving input through video file input or real-time webcam feed. The system will report on
 the student engagement level “engaged” if the student's eyes are staring at the screen
 and student facial expression showing a neutral or positive impression.
-Paper : https://bit.ly/thesis-paper 
-![image](https://user-images.githubusercontent.com/38367623/127781985-d1e1093c-9d7d-4bf9-bbce-f7831b54ba9d.png)
+
+Paper : https://bit.ly/thesis-paper
 Project Link : https://github.com/liviaellen/engagementdetector 
 Video Presentation : https://bit.ly/ellenskripsi 
+
 The demo could be found here: 
 The demo video is in Indonesian language.
 
