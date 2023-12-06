@@ -1,3 +1,6 @@
+This Repo is not maintained anymore. I will update it with a better code organization soon!
+
+
 **Student Engagement Detection System in E-Learning Environment using OpenCV and CNN**
 
 The student engagement detection system works by detecting student eye gaze and facial expression using OpenCV technology, FER-2013 dataset and CNN (convolutional neural network) method, receiving input through video file input or real-time webcam feed. The system will report on
